@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor";
-import searchProduct from "../Pages//SearchProductPage/SearchProductPage.spec";
+import searchProduct from "../../Pages/SearchProductPage/Searchproductpage.spec";
 import homePage from "../../Pages/HomePage/Homepage.spec";
 
 Given("I navigate to the Website", () => {
