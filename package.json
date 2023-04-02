@@ -1,0 +1,16 @@
+{
+  "name": "cypress-bdd",
+  "version": "1.0.0",
+  "description": "BDD Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lalit Kushwaha",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^12.9.0"
+  }
+}
